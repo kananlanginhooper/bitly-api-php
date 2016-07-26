@@ -1,19 +1,21 @@
 {
-    "name": "bitly/bitly-api-php",
+    "name": "kananlanginhooper/bitly-api-php",
     "type": "library",
     "description": "PHP client for the Bitly API",
     "keywords": ["bitly", "api"],
-    "homepage": "https://github.com/bitly/bitly-api-php",
+    "homepage": "https://github.com/kananlanginhooper/bitly-api-php",
     "authors": [
         {
-            "name": "James Socol",
-            "email": "james@bit.ly",
+            "name": "Kanan Hooper",
+            "email": "kanan.langinhooper@gmail.com",
             "role": "Developer"
         }
+		,{
+            "name": "James Socol",
+            "email": "james@bit.ly",
+            "role": "Original Developer"
+        }
     ],
-    "autoload": {
-        "classmap": ["Bitly.php"]
-    },
     "license": "Apache Software License 2.0",
     "version": "0.1.0"
 }
