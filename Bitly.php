@@ -11,6 +11,8 @@
  * @link       https://github.com/bitly/bitly-api-php
  */
 
+ namespace \kananlanginhooper\bitly-api-php;
+ 
 /**
  * Base class for Bitly client errors.
  */
