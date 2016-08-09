@@ -12,7 +12,7 @@
  * @link       https://github.com/bitly/bitly-api-php
  */
 
-namespace KananLanginHooper\BitlyApiPhp;
+namespace BitlyApiPhp;
 
 /**
  * Base class for Bitly client errors.

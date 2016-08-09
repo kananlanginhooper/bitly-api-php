@@ -1,5 +1,5 @@
 {
-    "name": "kananlanginhooper/bitlyapiphp",
+    "name": "kananlanginhooper/bitly-api-php",
     "type": "library",
     "description": "PHP client for the Bitly API",
     "keywords": ["bitly", "api"],
@@ -16,5 +16,10 @@
             "role": "Original Developer"
         }
     ],
+	"autoload": {
+		"psr-0": {
+			"Bitly": "src"
+		}
+	},
     "license": "Apache Software License 2.0"
 }
