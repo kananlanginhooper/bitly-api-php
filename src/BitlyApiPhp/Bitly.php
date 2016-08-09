@@ -17,7 +17,7 @@ namespace BitlyApiPhp;
 /**
  * Base class for Bitly client errors.
  */
-class BitlyError extends Exception {
+class BitlyError extends \Exception {
 }
 
 /**
